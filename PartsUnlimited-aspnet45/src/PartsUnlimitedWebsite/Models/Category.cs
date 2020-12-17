@@ -4,6 +4,7 @@ using System.ComponentModel.DataAnnotations;
 namespace PartsUnlimited.Models
 {
     // first change
+    // changes to test Azure Devops Pipeline CI 
     public class Category
     {
         public int CategoryId { get; set; }
